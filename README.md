@@ -1,8 +1,12 @@
-# chrome-weather
+# chrome-extension-weather
 
-> chrom weather for vue
+基于 Vue 的天气预报扩展
 
-## Build Setup
+### 项目截图
+
+![screenshot](./screenshot-01.png)
+
+### 构建应用
 
 ``` bash
 # install dependencies
