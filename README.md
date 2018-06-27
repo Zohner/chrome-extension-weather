@@ -2,6 +2,10 @@
 
 基于 Vue 的天气预报扩展
 
+### 安装扩展
+
+[点这里安装扩展](https://chrome.google.com/webstore/detail/%E7%A4%BE%E4%BC%9A%E5%A4%A9%E6%B0%94/ngjmfihbidfhambfmjhanenemhnnfehg/related?hl=zh-CN)
+
 ### 目录结构
 
 `/dist` — 存放扩展的主要文件夹（本地加载扩展只需要加载这个文件夹)
